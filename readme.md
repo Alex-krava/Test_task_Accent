@@ -1,6 +1,5 @@
 This is test task Accent company
 
-<a href='http://test.kravchenkoalex.ru/'>DEMO</a>
 
 Installation
 
